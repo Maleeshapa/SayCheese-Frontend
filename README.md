@@ -1,3 +1,15 @@
+![image](https://github.com/Maleeshapa/SayCheese-Frontend/assets/132542186/d7311a03-773a-455e-a72c-22332834ee1e)
+
+![image](https://github.com/Maleeshapa/SayCheese-Frontend/assets/132542186/e4af0ef5-7db8-4978-a0f5-db054e346ec2)
+
+![image](https://github.com/Maleeshapa/SayCheese-Frontend/assets/132542186/fd072809-cb52-4043-9cdd-60727caad7c6)
+
+![image](https://github.com/Maleeshapa/SayCheese-Frontend/assets/132542186/5d97a75c-72e1-4e70-bb07-a9c7aa08382b)
+
+![image](https://github.com/Maleeshapa/SayCheese-Frontend/assets/132542186/f1c06723-c412-47e0-8492-7fbcc2294f2c)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
